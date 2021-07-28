@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shirgra and my name is Shir Granit
+- 👀 I’m interested in music, puzzels, and coding.
+- 🌱 I’m currently learning B.Sc. in Communication System Engineering, Ben-Gurion University of the Negev.
+- 📫 You can reach me in linkdin - linkedin.com/in/shirgranit
